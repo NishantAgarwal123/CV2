@@ -1,9 +1,0 @@
-static
-relative
-fi
-
-
-static - default (html flow) 
-relative - it is a relative position to it's original posi(static). does not affect the posi of other elem
-changed by coordinate properties - top,bottom,left,right.
-top:200px; will add margin of 200px to the elem on top side.
